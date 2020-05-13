@@ -1,2 +1,1 @@
-# Sample.github.io
-sample
+# Sample
